@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "5f7119ae279d0205",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c039c7c27534066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f9a3766bde00e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fields/Asset Management/Black Litterman Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Litterman Model"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "759faa651a54a4b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f88bb759774e098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72da7cc9ed3a85a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "31a7d291faec25ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55180e049b9086aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "999027d3fc612128",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6552aeb38e5815d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46cd4419872b660f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Skills/Mathematics/Stochastic Modeling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stochastic Modeling"
+            }
+          },
+          {
+            "id": "58c87aee10ad4130",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Skills/Mathematics/Stochastic Modeling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stochastic Modeling"
+            }
+          },
+          {
+            "id": "bbb62165191fb1cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "593e9f4c4462188b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fields/Asset Management/Modern Portfolio Theory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Modern Portfolio Theory"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "72da7cc9ed3a85a2",
+  "lastOpenFiles": [
+    "README.md",
+    "Fields/Asset Management/Efficient Frontier.md",
+    "Fields/Asset Management/Black Litterman Model.md",
+    "Skills/Mathematics/Stochastic Modeling.md",
+    "Skills/Mathematics/Geometric Brownian motion.md",
+    "Skills/Mathematics/0. Mathematics.md",
+    "Skills/Finance & Economics/Sharpe Ratio.md",
+    "Skills/Finance & Economics/Econometrics.md",
+    "Projects/Jane Miller Project Brief.md",
+    "Projects/NEDL Black Litterman Model in Excel.md",
+    "0. Backlog.md",
+    "Fields/Asset Management/Modern Portfolio Theory.md",
+    "Pasted image 20250215120837.png",
+    "0. Index.md",
+    "Quant2be.md",
+    "question list.md",
+    "Untitled.md",
+    "OneTab.md",
+    "CleanShot 2025-02-24 at 22.25.56@2x.png",
+    "Jane Miller.md",
+    "MIT_MPT.pdf",
+    "Fields/Risk Management/How to think about risk.md",
+    "Fields/Asset Management/Script - Modern Portfolio Theory.md",
+    "Log.md",
+    "Fields/Risk Management/Hedging.md",
+    "Youtube script",
+    "Fields/Hedge Fund",
+    "covariance.md",
+    "0. Roadmap.md",
+    "0. Fields.md",
+    "Projects",
+    "MPT ref.pdf",
+    "Screenshot 2025-02-15 at 11.12.21 AM.png",
+    "Fields/Risk Management",
+    "Fields/Asset Management",
+    "Skills/Finance & Economics",
+    "Skills/Programming",
+    "Skills/Mathematics"
+  ]
+}
